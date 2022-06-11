@@ -5,7 +5,7 @@
 body {
     background-color: #322650;
     color: rgb(19, 241, 212);
-    font-family: 'SF Pixelate', sans-serif;
+    font-family: 'Raleway', sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -36,7 +36,7 @@ body {
 #startButton {
     margin-top: 20px;
     appearance: none;
-    font-family: 'SF Pixelate', sans-serif;
+    font-family: 'Raleway', sans-serif;
     border: none;
     width: 300px;
     padding: 10px;
