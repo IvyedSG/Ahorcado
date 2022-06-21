@@ -21,7 +21,8 @@ body {
     margin: 0 7px;
     position: relative;
     text-align: center;
-    user-select: text;
+    user-select: none;
+    cursor: text;
 }
 
 .letter::after{
@@ -33,7 +34,7 @@ body {
     height: 1px;
     background-color: rgb(233, 233, 233);
     min-width: 12px;
-    user-select: none;
+    user-select: text;
     cursor: pointer;
 }
 
